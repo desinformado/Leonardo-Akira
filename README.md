@@ -29,9 +29,8 @@ Os repositórios deste perfil documentam minha evolução como desenvolvedor e d
 
 ## Contato
 
-- GitHub: https://github.com/seuusuario
-- E-mail: seuemail@exemplo.com
-- Discord: seuusuario
+- E-mail: lepakira87@gmail.com
+- Discord: sapinho02_49519
 
 ---
 
