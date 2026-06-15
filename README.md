@@ -1,77 +1,39 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Akira - Links</title>
+```md
+# Akira
 
-<style>
-    body{
-        font-family: Arial, sans-serif;
-        background:#121212;
-        color:white;
-        display:flex;
-        justify-content:center;
-        align-items:center;
-        min-height:100vh;
-        margin:0;
-    }
+Desenvolvedor Web em formação, focado na criação de interfaces simples, organizadas e funcionais utilizando HTML e CSS.
 
-    .container{
-        text-align:center;
-        width:90%;
-        max-width:400px;
-    }
+## Sobre
 
-    h1{
-        margin-bottom:10px;
-    }
+Atualmente estou aprimorando minhas habilidades em desenvolvimento front-end por meio de projetos práticos e estudos contínuos. Meu objetivo é criar experiências web visualmente agradáveis, bem estruturadas e acessíveis.
 
-    p{
-        color:#bdbdbd;
-        margin-bottom:30px;
-    }
+## Competências
 
-    .link{
-        display:block;
-        text-decoration:none;
-        background:#1f1f1f;
-        color:white;
-        padding:15px;
-        margin:10px 0;
-        border-radius:10px;
-        transition:0.3s;
-    }
+- HTML5
+- CSS3
+- Estruturação semântica de páginas
+- Layouts responsivos
+- Organização de interfaces
+- Controle de versão com Git e GitHub
 
-    .link:hover{
-        background:#333;
-        transform:translateY(-2px);
-    }
-</style>
-</head>
-<body>
+## Objetivos Profissionais
 
-<div class="container">
-    <h1>Akira</h1>
-    <p>Desenvolvedor Web Iniciante</p>
+- Expandir conhecimentos em desenvolvimento web.
+- Aprender JavaScript e tecnologias modernas.
+- Participar de projetos colaborativos.
+- Construir um portfólio sólido e profissional.
 
-    <a class="link" href="https://github.com/seuusuario" target="_blank">
-        GitHub
-    </a>
+## Projetos
 
-    <a class="link" href="https://seusite.com" target="_blank">
-        Portfólio
-    </a>
+Os repositórios deste perfil documentam minha evolução como desenvolvedor e demonstram minhas habilidades através de aplicações práticas.
 
-    <a class="link" href="https://discord.com/users/seuid" target="_blank">
-        Discord
-    </a>
+## Contato
 
-    <a class="link" href="https://wa.me/5500000000000" target="_blank">
-        WhatsApp
-    </a>
+- GitHub: https://github.com/seuusuario
+- E-mail: seuemail@exemplo.com
+- Discord: seuusuario
 
-</div>
+---
 
-</body>
-</html>
+> "Pequenos avanços diários constroem grandes resultados."
+```
